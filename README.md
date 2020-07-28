@@ -1,4 +1,4 @@
-## NeuroBiometrics
+## NeuroBiometric: Eye Blink Based Biometric Authentication System Using Event-based Neuromorphic Vision Sensor
 This repository contains the Dataset in our paper `NeuroBiometric: Eye Blink Based Biometric Authentication System Using Event-based Neuromorphic Vision Sensor`. If you benefit from this repository, please cite our paper.
 ```
 @ARTICLE{,
