@@ -45,10 +45,11 @@ filter_flag = False    # True: use filter
 #### aedat_convert_csv.py
 It helps to convert original 'aedat' data into serialized events.  
 Outputs are csv files with serialized events in rows, each event is represented by a 4-dimension tuple: 'timestamp', 'x', 'y', 'pol'.
-
-> timestamp: timestamp when event is triggered.  
+```
+timestamp: timestamp when event is triggered.  
 x, y: 2D location of event in a 346*260 canvas.  
 pol: polarity of event, '1' for ON and '0' for OFF.  
+```
 
 
 ### Contact 
